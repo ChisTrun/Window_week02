@@ -1,0 +1,78 @@
+C:\Users\Hoang Khanh\Desktop\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\bin\Debug\net7.0-windows\Images\image01.jpg
+C:\Users\Hoang Khanh\Desktop\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\bin\Debug\net7.0-windows\Images\image02.jpg
+C:\Users\Hoang Khanh\Desktop\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\bin\Debug\net7.0-windows\Images\image03.jpg
+C:\Users\Hoang Khanh\Desktop\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\bin\Debug\net7.0-windows\Images\image04.jpg
+C:\Users\Hoang Khanh\Desktop\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\bin\Debug\net7.0-windows\Images\image05.jpg
+C:\Users\Hoang Khanh\Desktop\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\bin\Debug\net7.0-windows\Images\image06.jpg
+C:\Users\Hoang Khanh\Desktop\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\bin\Debug\net7.0-windows\Images\image07.jpg
+C:\Users\Hoang Khanh\Desktop\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\bin\Debug\net7.0-windows\Images\image08.jpg
+C:\Users\Hoang Khanh\Desktop\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\bin\Debug\net7.0-windows\Images\image09.jpg
+C:\Users\Hoang Khanh\Desktop\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\bin\Debug\net7.0-windows\Images\image10.jpg
+C:\Users\Hoang Khanh\Desktop\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\bin\Debug\net7.0-windows\Images\image11.jpg
+C:\Users\Hoang Khanh\Desktop\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\bin\Debug\net7.0-windows\Images\image12.jpg
+C:\Users\Hoang Khanh\Desktop\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\bin\Debug\net7.0-windows\Images\image13.jpg
+C:\Users\Hoang Khanh\Desktop\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\bin\Debug\net7.0-windows\Images\image14.jpg
+C:\Users\Hoang Khanh\Desktop\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\bin\Debug\net7.0-windows\Images\image15.jpg
+C:\Users\Hoang Khanh\Desktop\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\bin\Debug\net7.0-windows\Random_English_Vocabulary.exe
+C:\Users\Hoang Khanh\Desktop\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\bin\Debug\net7.0-windows\Random_English_Vocabulary.deps.json
+C:\Users\Hoang Khanh\Desktop\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\bin\Debug\net7.0-windows\Random_English_Vocabulary.runtimeconfig.json
+C:\Users\Hoang Khanh\Desktop\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\bin\Debug\net7.0-windows\Random_English_Vocabulary.dll
+C:\Users\Hoang Khanh\Desktop\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\bin\Debug\net7.0-windows\Random_English_Vocabulary.pdb
+C:\Users\Hoang Khanh\Desktop\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Hoang Khanh\Desktop\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Hoang Khanh\Desktop\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\obj\Debug\net7.0-windows\Random_English_Vocabulary_MarkupCompile.cache
+C:\Users\Hoang Khanh\Desktop\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\obj\Debug\net7.0-windows\Random_English_Vocabulary_MarkupCompile.lref
+C:\Users\Hoang Khanh\Desktop\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Hoang Khanh\Desktop\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\obj\Debug\net7.0-windows\Random_English_Vocabulary.g.resources
+C:\Users\Hoang Khanh\Desktop\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\obj\Debug\net7.0-windows\Random_English_Vocabulary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang Khanh\Desktop\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\obj\Debug\net7.0-windows\Random_English_Vocabulary.AssemblyInfoInputs.cache
+C:\Users\Hoang Khanh\Desktop\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\obj\Debug\net7.0-windows\Random_English_Vocabulary.AssemblyInfo.cs
+C:\Users\Hoang Khanh\Desktop\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\obj\Debug\net7.0-windows\Random_English_Vocabulary.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Khanh\Desktop\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\obj\Debug\net7.0-windows\Random_English_Vocabulary.dll
+C:\Users\Hoang Khanh\Desktop\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\obj\Debug\net7.0-windows\refint\Random_English_Vocabulary.dll
+C:\Users\Hoang Khanh\Desktop\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\obj\Debug\net7.0-windows\Random_English_Vocabulary.pdb
+C:\Users\Hoang Khanh\Desktop\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\obj\Debug\net7.0-windows\Random_English_Vocabulary.genruntimeconfig.cache
+C:\Users\Hoang Khanh\Desktop\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\obj\Debug\net7.0-windows\ref\Random_English_Vocabulary.dll
+C:\Users\Hoang Khanh\Desktop\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\obj\Debug\net7.0-windows\LearnWindow.g.cs
+C:\Users\Hoang Khanh\Desktop\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\obj\Debug\net7.0-windows\PracticeWindow.g.cs
+C:\Users\Hoang Khanh\Desktop\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\obj\Debug\net7.0-windows\LearnWindow.baml
+C:\Users\Hoang Khanh\Desktop\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\obj\Debug\net7.0-windows\PracticeWindow.baml
+D:\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\bin\Debug\net7.0-windows\Images\image01.jpg
+D:\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\bin\Debug\net7.0-windows\Images\image02.jpg
+D:\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\bin\Debug\net7.0-windows\Images\image03.jpg
+D:\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\bin\Debug\net7.0-windows\Images\image04.jpg
+D:\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\bin\Debug\net7.0-windows\Images\image05.jpg
+D:\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\bin\Debug\net7.0-windows\Images\image06.jpg
+D:\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\bin\Debug\net7.0-windows\Images\image07.jpg
+D:\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\bin\Debug\net7.0-windows\Images\image08.jpg
+D:\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\bin\Debug\net7.0-windows\Images\image09.jpg
+D:\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\bin\Debug\net7.0-windows\Images\image10.jpg
+D:\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\bin\Debug\net7.0-windows\Images\image11.jpg
+D:\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\bin\Debug\net7.0-windows\Images\image12.jpg
+D:\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\bin\Debug\net7.0-windows\Images\image13.jpg
+D:\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\bin\Debug\net7.0-windows\Images\image14.jpg
+D:\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\bin\Debug\net7.0-windows\Images\image15.jpg
+D:\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\bin\Debug\net7.0-windows\Random_English_Vocabulary.exe
+D:\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\bin\Debug\net7.0-windows\Random_English_Vocabulary.deps.json
+D:\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\bin\Debug\net7.0-windows\Random_English_Vocabulary.runtimeconfig.json
+D:\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\bin\Debug\net7.0-windows\Random_English_Vocabulary.dll
+D:\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\bin\Debug\net7.0-windows\Random_English_Vocabulary.pdb
+D:\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\obj\Debug\net7.0-windows\LearnWindow.g.cs
+D:\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\obj\Debug\net7.0-windows\PracticeWindow.g.cs
+D:\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\obj\Debug\net7.0-windows\App.g.cs
+D:\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\obj\Debug\net7.0-windows\Random_English_Vocabulary_MarkupCompile.cache
+D:\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\obj\Debug\net7.0-windows\Random_English_Vocabulary_MarkupCompile.lref
+D:\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\obj\Debug\net7.0-windows\LearnWindow.baml
+D:\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\obj\Debug\net7.0-windows\MainWindow.baml
+D:\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\obj\Debug\net7.0-windows\PracticeWindow.baml
+D:\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\obj\Debug\net7.0-windows\Random_English_Vocabulary.g.resources
+D:\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\obj\Debug\net7.0-windows\Random_English_Vocabulary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\obj\Debug\net7.0-windows\Random_English_Vocabulary.AssemblyInfoInputs.cache
+D:\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\obj\Debug\net7.0-windows\Random_English_Vocabulary.AssemblyInfo.cs
+D:\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\obj\Debug\net7.0-windows\Random_English_Vocabulary.csproj.CoreCompileInputs.cache
+D:\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\obj\Debug\net7.0-windows\Random_English_Vocabulary.dll
+D:\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\obj\Debug\net7.0-windows\refint\Random_English_Vocabulary.dll
+D:\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\obj\Debug\net7.0-windows\Random_English_Vocabulary.pdb
+D:\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\obj\Debug\net7.0-windows\Random_English_Vocabulary.genruntimeconfig.cache
+D:\Class\Window\Week02\Home\21120159\Random_English_Vocabulary\obj\Debug\net7.0-windows\ref\Random_English_Vocabulary.dll

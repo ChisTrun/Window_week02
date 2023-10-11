@@ -1,0 +1,60 @@
+﻿<Window x:Class="Random_English_Vocabulary.PracticeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Random_English_Vocabulary"
+        mc:Ignorable="d" FontSize="18" WindowStartupLocation="CenterScreen" Icon="./Icon/icon.ico" 
+        Title="Practice" Height="400" Width="600" FontFamily="Segoe UI Light" Loaded="Window_Loaded" >
+    <Grid>
+        <!--** Phần định nghĩa cấu trúc Grid **-->
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="20"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="20"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="20"/>
+        </Grid.RowDefinitions>
+        <!-- Phần nội dung chính của window-->
+        <Viewbox Grid.Column="1" Grid.Row="1" Grid.ColumnSpan="2">
+            <Button x:Name="menuButton" Content="Menu" Click="menuButton_Click"/>
+        </Viewbox>
+        
+        <Viewbox Grid.Column="5" Grid.Row="1" Grid.ColumnSpan="2">
+            <TextBlock x:Name="scoreTextBlock" />
+        </Viewbox>
+        <Viewbox Grid.Column="3" Grid.Row="2" Grid.ColumnSpan="6" Grid.RowSpan="6">
+            <Image x:Name="wordImage"/>
+        </Viewbox>
+        
+        <Viewbox Grid.Column="1" Grid.Row="9" Grid.ColumnSpan="4" Grid.RowSpan="2">
+            <Button x:Name="answerA" MinWidth="300px" MinHeight="50px" Click="answerA_Click"/>
+        </Viewbox>
+        <Viewbox Grid.Column="7" Grid.Row="9" Grid.ColumnSpan="4" Grid.RowSpan="2">
+            <Button x:Name="answerB" MinWidth="300px" MinHeight="50px" Click="answerB_Click"/>
+        </Viewbox>   
+        
+    </Grid>
+</Window>
